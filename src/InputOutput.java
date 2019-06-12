@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+//Combineing Scanner and variables  for input and output
 public class InputOutput {
     public static void main(String[]args){
         Scanner keyboard = new Scanner(System.in);
